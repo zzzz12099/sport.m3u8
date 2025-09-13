@@ -1,3 +1,5 @@
 #EXTM3U
-#EXT-X-STREAM-INF:BANDWIDTH=4500000,RESOLUTION=480x360
-http://hydratv.cc:80/live/fPUNsxhUXo/YqddlUZVdl/415744.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=360x480
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128854.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=2500000,RESOLUTION=1080x720
+http://portal.geniptv.com:8080/live/dmtndmtnkimo/a7GPMeArdf/128861.m3u8
